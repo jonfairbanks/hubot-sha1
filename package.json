@@ -1,0 +1,23 @@
+{
+  "name": "hubot-sha1",
+  "version": "1.0.0",
+  "description": "Encode user provided strings with the pre-defined SHA1 keys using Hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonfairbanks/hubot-sha1.git"
+  },
+  "keywords": [
+    "hubot",
+    "sha1"
+  ],
+  "author": "Jon Fairbanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonfairbanks/hubot-sha1/issues"
+  },
+  "homepage": "https://github.com/jonfairbanks/hubot-sha1#readme"
+}
