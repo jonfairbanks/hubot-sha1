@@ -1,7 +1,7 @@
 {
   "name": "hubot-sha1",
-  "version": "1.0.0",
-  "description": "Encode user provided strings with the pre-defined SHA1 keys using Hubot",
+  "version": "1.0.2",
+  "description": "SHA1 encoding with Hubot",
   "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
